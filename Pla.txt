@@ -1,0 +1,20 @@
+La organització de aquest treball sera la seguent:
+
+es disposara de la branca master com a punt on shi guarderan les versions estables del "llibre".
+a continuacio sotilitzara una branca per a cada capitol que contindra la branca dels paragrefs corresponent,
+la representacio aproximade seria
+
+Master
+  portade
+  capitol_1
+    peragref_1
+    peragref_2
+    peragref_3
+  capitol_2
+    peragref_1
+    peragref_2
+    peragref_3
+  capitol_3
+    peragref_1
+    peragref_2
+    peragref_3
